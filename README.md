@@ -2,9 +2,7 @@
 This is a simple portfolio application for users to showcase their work, network and blog.
 
 Setup instructions:
-1. Clone the repository:
-git clone <your-repo-url>
-cd PortfolioApp-JacquelineBento
+1. Clone the repository: <https://github.com/jacquebento/portfolioApp-phase1.git>
 2. Install dependencies: npm install
 3. In the project directory run: npm start
 4. Open (http://localhost:3000) to view it in your browser
